@@ -1,0 +1,8 @@
+Analyze my ecommerce webstore on given information of customers, products and orders.
+Analysis:
+Find how many customers are repeating on my store.
+Find which product is top sailing product on the basis of repeated orders.
+Find which product should be discontinued as it is the least soled product on my store.
+Find which customer should get more discount as he/she keep visiting my store more than 5 times.
+What is my total income till end.
+Write me a full report on monthly sale.
